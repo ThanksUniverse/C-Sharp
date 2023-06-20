@@ -1,0 +1,30 @@
+D:\Study-Work\Study\C# + T-SQL\app\bin\Debug\net7.0\app.exe
+D:\Study-Work\Study\C# + T-SQL\app\bin\Debug\net7.0\app.deps.json
+D:\Study-Work\Study\C# + T-SQL\app\bin\Debug\net7.0\app.runtimeconfig.json
+D:\Study-Work\Study\C# + T-SQL\app\bin\Debug\net7.0\app.dll
+D:\Study-Work\Study\C# + T-SQL\app\bin\Debug\net7.0\app.pdb
+D:\Study-Work\Study\C# + T-SQL\app\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+D:\Study-Work\Study\C# + T-SQL\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study-Work\Study\C# + T-SQL\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+D:\Study-Work\Study\C# + T-SQL\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+D:\Study-Work\Study\C# + T-SQL\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+D:\Study-Work\Study\C# + T-SQL\app\obj\Debug\net7.0\app.dll
+D:\Study-Work\Study\C# + T-SQL\app\obj\Debug\net7.0\refint\app.dll
+D:\Study-Work\Study\C# + T-SQL\app\obj\Debug\net7.0\app.pdb
+D:\Study-Work\Study\C# + T-SQL\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+D:\Study-Work\Study\C# + T-SQL\app\obj\Debug\net7.0\ref\app.dll
+D:\Study-Work\Study\c#_SQL\app\bin\Debug\net7.0\app.exe
+D:\Study-Work\Study\c#_SQL\app\bin\Debug\net7.0\app.deps.json
+D:\Study-Work\Study\c#_SQL\app\bin\Debug\net7.0\app.runtimeconfig.json
+D:\Study-Work\Study\c#_SQL\app\bin\Debug\net7.0\app.dll
+D:\Study-Work\Study\c#_SQL\app\bin\Debug\net7.0\app.pdb
+D:\Study-Work\Study\c#_SQL\app\obj\Debug\net7.0\app.csproj.AssemblyReference.cache
+D:\Study-Work\Study\c#_SQL\app\obj\Debug\net7.0\app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study-Work\Study\c#_SQL\app\obj\Debug\net7.0\app.AssemblyInfoInputs.cache
+D:\Study-Work\Study\c#_SQL\app\obj\Debug\net7.0\app.AssemblyInfo.cs
+D:\Study-Work\Study\c#_SQL\app\obj\Debug\net7.0\app.csproj.CoreCompileInputs.cache
+D:\Study-Work\Study\c#_SQL\app\obj\Debug\net7.0\app.dll
+D:\Study-Work\Study\c#_SQL\app\obj\Debug\net7.0\refint\app.dll
+D:\Study-Work\Study\c#_SQL\app\obj\Debug\net7.0\app.pdb
+D:\Study-Work\Study\c#_SQL\app\obj\Debug\net7.0\app.genruntimeconfig.cache
+D:\Study-Work\Study\c#_SQL\app\obj\Debug\net7.0\ref\app.dll
