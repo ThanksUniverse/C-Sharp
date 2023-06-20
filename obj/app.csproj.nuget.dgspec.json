@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Study-Work\\Study\\c#_SQL\\app\\app.csproj": {}
+    "D:\\Study-Work\\Study\\c#_SQL\\app\\app.csproj": {}
   },
   "projects": {
-    "d:\\Study-Work\\Study\\c#_SQL\\app\\app.csproj": {
+    "D:\\Study-Work\\Study\\c#_SQL\\app\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Study-Work\\Study\\c#_SQL\\app\\app.csproj",
+        "projectUniqueName": "D:\\Study-Work\\Study\\c#_SQL\\app\\app.csproj",
         "projectName": "app",
-        "projectPath": "d:\\Study-Work\\Study\\c#_SQL\\app\\app.csproj",
+        "projectPath": "D:\\Study-Work\\Study\\c#_SQL\\app\\app.csproj",
         "packagesPath": "C:\\Users\\Desktop\\.nuget\\packages\\",
-        "outputPath": "d:\\Study-Work\\Study\\c#_SQL\\app\\obj\\",
+        "outputPath": "D:\\Study-Work\\Study\\c#_SQL\\app\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Desktop\\AppData\\Roaming\\NuGet\\NuGet.Config",
